@@ -29,7 +29,7 @@ If you're near fire, you'll recover your failing health.
 
 CutScene will play back when you arrive at the final point while maintaining health.
 
-<hr/>  
+
 
 
 
@@ -52,7 +52,7 @@ Goblin patrols each set of places.
 The player installs the trap and pulls the goblin onto the trap to kill.
 
 
-<hr/>  
+
 
 
 <hr/>  
@@ -69,10 +69,11 @@ The player cannot operate the keyboard on the ice.
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73858574-f6fa5680-487b-11ea-81a7-a2147578bcdb.png"> 
 Once you've passed, it's an X mark. If you go to the place marked X, the puzzle is initialized.
 
-<hr/> 
+
 
 
 <hr/>  
+
 4. The fourth stage is boss stage. 
 ---------------------------------
 
