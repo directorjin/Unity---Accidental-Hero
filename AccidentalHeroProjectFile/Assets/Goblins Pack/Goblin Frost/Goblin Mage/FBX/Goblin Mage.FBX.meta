@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 90821770cc91b0a4da466b0e251b490d
+timeCreated: 1457884127
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Dummy-LWeapon
+    100002: Dummy-RWeapon
+    100004: Goblin Mage
+    100006: //RootNode
+    100008: Rig
+    100010: RigCape1
+    100012: RigCape1Gizmo
+    100014: RigCape2
+    100016: RigCape2Gizmo
+    100018: RigCape3
+    100020: RigCape3Gizmo
+    100022: RigCape4
+    100024: RigCape4Gizmo
+    100026: RigCape5
+    100028: RigCape5Gizmo
+    100030: RigCapeLSide1
+    100032: RigCapeLSide1Gizmo
+    100034: RigCapeLSide2
+    100036: RigCapeLSide2Gizmo
+    100038: RigCapeLSide3
+    100040: RigCapeLSide3Gizmo
+    100042: RigCapeRSide1
+    100044: RigCapeRSide1Gizmo
+    100046: RigCapeRSide2
+    100048: RigCapeRSide2Gizmo
+    100050: RigCapeRSide3
+    100052: RigCapeRSide3Gizmo
+    100054: RigHat1
+    100056: RigHat1Gizmo
+    100058: RigHat2
+    100060: RigHat2Gizmo
+    100062: RigHat3
+    100064: RigHat3Gizmo
+    100066: RigHatLFlip01
+    100068: RigHatLFlip01Gizmo
+    100070: RigHatLFlip02
+    100072: RigHatLFlip02Gizmo
+    100074: RigHatLFlip03
+    100076: RigHatLFlip03Gizmo
+    100078: RigHatLFlip04
+    100080: RigHatLFlip04Gizmo
+    100082: RigHatRFlip01
+    100084: RigHatRFlip01Gizmo
+    100086: RigHatRFlip02
+    100088: RigHatRFlip02Gizmo
+    100090: RigHatRFlip03
+    100092: RigHatRFlip03Gizmo
+    100094: RigHatRFlip04
+    100096: RigHatRFlip04Gizmo
+    100098: RigHead
+    100100: RigHeadGizmo
+    100102: RigJawLower
+    100104: RigJawLowerGizmo
+    100106: RigLArm1
+    100108: RigLArm1Gizmo
+    100110: RigLArm1Gizmo 1
+    100112: RigLArm2
+    100114: RigLArm2Gizmo
+    100116: RigLArm2Gizmo 1
+    100118: RigLArmIndex1
+    100120: RigLArmIndex2
+    100122: RigLArmIndex3
+    100124: RigLArmLittle1
+    100126: RigLArmLittle2
+    100128: RigLArmLittle3
+    100130: RigLArmMiddle1
+    100132: RigLArmMiddle2
+    100134: RigLArmMiddle3
+    100136: RigLArmPalm
+    100138: RigLArmPalmGizmo
+    100140: RigLArmPalmGizmo 1
+    100142: RigLArmThumb1
+    100144: RigLArmThumb2
+    100146: RigLArmThumb3
+    100148: RigLLeg1
+    100150: RigLLeg2
+    100152: RigLLegAnkle
+    100154: RigLLegPlatform
+    100156: RigLLegToes1
+    100158: RigLLegToes2
+    100160: RigNeck1
+    100162: RigNeck2
+    100164: RigPelvis
+    100166: RigPelvisGizmo
+    100168: RigRArm1
+    100170: RigRArm1Gizmo
+    100172: RigRArm2
+    100174: RigRArm2Gizmo
+    100176: RigRArmIndex1
+    100178: RigRArmIndex2
+    100180: RigRArmIndex3
+    100182: RigRArmLittle1
+    100184: RigRArmLittle2
+    100186: RigRArmLittle3
+    100188: RigRArmMiddle1
+    100190: RigRArmMiddle2
+    100192: RigRArmMiddle3
+    100194: RigRArmPalm
+    100196: RigRArmPalmGizmo
+    100198: RigRArmThumb1
+    100200: RigRArmThumb2
+    100202: RigRArmThumb3
+    100204: RigRibcage
+    100206: RigRibcageGizmo
+    100208: RigRLeg1
+    100210: RigRLeg2
+    100212: RigRLegAnkle
+    100214: RigRLegPlatform
+    100216: RigRLegToes1
+    100218: RigRLegToes2
+    100220: RigSpine1
+    100222: RigSpine2
+    100224: Staff
+    400000: Dummy-LWeapon
+    400002: Dummy-RWeapon
+    400004: //RootNode
+    400006: Goblin Mage
+    400008: Rig
+    400010: RigCape1
+    400012: RigCape1Gizmo
+    400014: RigCape2
+    400016: RigCape2Gizmo
+    400018: RigCape3
+    400020: RigCape3Gizmo
+    400022: RigCape4
+    400024: RigCape4Gizmo
+    400026: RigCape5
+    400028: RigCape5Gizmo
+    400030: RigCapeLSide1
+    400032: RigCapeLSide1Gizmo
+    400034: RigCapeLSide2
+    400036: RigCapeLSide2Gizmo
+    400038: RigCapeLSide3
+    400040: RigCapeLSide3Gizmo
+    400042: RigCapeRSide1
+    400044: RigCapeRSide1Gizmo
+    400046: RigCapeRSide2
+    400048: RigCapeRSide2Gizmo
+    400050: RigCapeRSide3
+    400052: RigCapeRSide3Gizmo
+    400054: RigHat1
+    400056: RigHat1Gizmo
+    400058: RigHat2
+    400060: RigHat2Gizmo
+    400062: RigHat3
+    400064: RigHat3Gizmo
+    400066: RigHatLFlip01
+    400068: RigHatLFlip01Gizmo
+    400070: RigHatLFlip02
+    400072: RigHatLFlip02Gizmo
+    400074: RigHatLFlip03
+    400076: RigHatLFlip03Gizmo
+    400078: RigHatLFlip04
+    400080: RigHatLFlip04Gizmo
+    400082: RigHatRFlip01
+    400084: RigHatRFlip01Gizmo
+    400086: RigHatRFlip02
+    400088: RigHatRFlip02Gizmo
+    400090: RigHatRFlip03
+    400092: RigHatRFlip03Gizmo
+    400094: RigHatRFlip04
+    400096: RigHatRFlip04Gizmo
+    400098: RigHead
+    400100: RigHeadGizmo
+    400102: RigJawLower
+    400104: RigJawLowerGizmo
+    400106: RigLArm1
+    400108: RigLArm1Gizmo
+    400110: RigLArm1Gizmo 1
+    400112: RigLArm2
+    400114: RigLArm2Gizmo
+    400116: RigLArm2Gizmo 1
+    400118: RigLArmIndex1
+    400120: RigLArmIndex2
+    400122: RigLArmIndex3
+    400124: RigLArmLittle1
+    400126: RigLArmLittle2
+    400128: RigLArmLittle3
+    400130: RigLArmMiddle1
+    400132: RigLArmMiddle2
+    400134: RigLArmMiddle3
+    400136: RigLArmPalm
+    400138: RigLArmPalmGizmo
+    400140: RigLArmPalmGizmo 1
+    400142: RigLArmThumb1
+    400144: RigLArmThumb2
+    400146: RigLArmThumb3
+    400148: RigLLeg1
+    400150: RigLLeg2
+    400152: RigLLegAnkle
+    400154: RigLLegPlatform
+    400156: RigLLegToes1
+    400158: RigLLegToes2
+    400160: RigNeck1
+    400162: RigNeck2
+    400164: RigPelvis
+    400166: RigPelvisGizmo
+    400168: RigRArm1
+    400170: RigRArm1Gizmo
+    400172: RigRArm2
+    400174: RigRArm2Gizmo
+    400176: RigRArmIndex1
+    400178: RigRArmIndex2
+    400180: RigRArmIndex3
+    400182: RigRArmLittle1
+    400184: RigRArmLittle2
+    400186: RigRArmLittle3
+    400188: RigRArmMiddle1
+    400190: RigRArmMiddle2
+    400192: RigRArmMiddle3
+    400194: RigRArmPalm
+    400196: RigRArmPalmGizmo
+    400198: RigRArmThumb1
+    400200: RigRArmThumb2
+    400202: RigRArmThumb3
+    400204: RigRibcage
+    400206: RigRibcageGizmo
+    400208: RigRLeg1
+    400210: RigRLeg2
+    400212: RigRLegAnkle
+    400214: RigRLegPlatform
+    400216: RigRLegToes1
+    400218: RigRLegToes2
+    400220: RigSpine1
+    400222: RigSpine2
+    400224: Staff
+    2300000: Staff
+    3300000: Staff
+    4300000: Goblin Mage
+    4300002: Staff
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Goblin Mage
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0560000017
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

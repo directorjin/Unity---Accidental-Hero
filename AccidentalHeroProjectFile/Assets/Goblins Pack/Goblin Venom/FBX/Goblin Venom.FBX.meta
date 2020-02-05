@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 6bc7792fc480fb546a94aca613c1f2d4
+timeCreated: 1457510711
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Blow Pipe
+    100002: Dart
+    100004: Goblin
+    100006: //RootNode
+    100008: Rig
+    100010: RigHatLFlip01
+    100012: RigHatLFlip01Gizmo
+    100014: RigHatLFlip02
+    100016: RigHatLFlip02Gizmo
+    100018: RigHatLFlip03
+    100020: RigHatLFlip03Gizmo
+    100022: RigHatLFlip04Gizmo
+    100024: RigHatRFlip01
+    100026: RigHatRFlip01Gizmo
+    100028: RigHatRFlip02
+    100030: RigHatRFlip02Gizmo
+    100032: RigHatRFlip03
+    100034: RigHatRFlip03Gizmo
+    100036: RigHatRFlip04Gizmo
+    100038: RigHead
+    100040: RigHeadGizmo
+    100042: RigJawLower
+    100044: RigJawLowerGizmo
+    100046: RigLArm1
+    100048: RigLArm1Gizmo
+    100050: RigLArm2
+    100052: RigLArm2Gizmo
+    100054: RigLArmIndex1
+    100056: RigLArmIndex2
+    100058: RigLArmIndex3
+    100060: RigLArmLittle1
+    100062: RigLArmLittle2
+    100064: RigLArmLittle3
+    100066: RigLArmMiddle1
+    100068: RigLArmMiddle2
+    100070: RigLArmMiddle3
+    100072: RigLArmPalm
+    100074: RigLArmPalmGizmo
+    100076: RigLArmThumb1
+    100078: RigLArmThumb2
+    100080: RigLArmThumb3
+    100082: RigLLeg1
+    100084: RigLLeg2
+    100086: RigLLegAnkle
+    100088: RigLLegPlatform
+    100090: RigLLegToes1
+    100092: RigLLegToes2
+    100094: RigNeck1
+    100096: RigNeck2
+    100098: RigPelvis
+    100100: RigPelvisGizmo
+    100102: RigRArm1
+    100104: RigRArm1Gizmo
+    100106: RigRArm2
+    100108: RigRArm2Gizmo
+    100110: RigRArmIndex1
+    100112: RigRArmIndex2
+    100114: RigRArmIndex3
+    100116: RigRArmLittle1
+    100118: RigRArmLittle2
+    100120: RigRArmLittle3
+    100122: RigRArmMiddle1
+    100124: RigRArmMiddle2
+    100126: RigRArmMiddle3
+    100128: RigRArmPalm
+    100130: RigRArmPalmGizmo
+    100132: RigRArmThumb1
+    100134: RigRArmThumb2
+    100136: RigRArmThumb3
+    100138: RigRibcage
+    100140: RigRibcageGizmo
+    100142: RigRLeg1
+    100144: RigRLeg2
+    100146: RigRLegAnkle
+    100148: RigRLegPlatform
+    100150: RigRLegToes1
+    100152: RigRLegToes2
+    100154: RigSpine1
+    100156: RigSpine2
+    400000: Blow Pipe
+    400002: Dart
+    400004: Goblin
+    400006: //RootNode
+    400008: Rig
+    400010: RigHatLFlip01
+    400012: RigHatLFlip01Gizmo
+    400014: RigHatLFlip02
+    400016: RigHatLFlip02Gizmo
+    400018: RigHatLFlip03
+    400020: RigHatLFlip03Gizmo
+    400022: RigHatLFlip04Gizmo
+    400024: RigHatRFlip01
+    400026: RigHatRFlip01Gizmo
+    400028: RigHatRFlip02
+    400030: RigHatRFlip02Gizmo
+    400032: RigHatRFlip03
+    400034: RigHatRFlip03Gizmo
+    400036: RigHatRFlip04Gizmo
+    400038: RigHead
+    400040: RigHeadGizmo
+    400042: RigJawLower
+    400044: RigJawLowerGizmo
+    400046: RigLArm1
+    400048: RigLArm1Gizmo
+    400050: RigLArm2
+    400052: RigLArm2Gizmo
+    400054: RigLArmIndex1
+    400056: RigLArmIndex2
+    400058: RigLArmIndex3
+    400060: RigLArmLittle1
+    400062: RigLArmLittle2
+    400064: RigLArmLittle3
+    400066: RigLArmMiddle1
+    400068: RigLArmMiddle2
+    400070: RigLArmMiddle3
+    400072: RigLArmPalm
+    400074: RigLArmPalmGizmo
+    400076: RigLArmThumb1
+    400078: RigLArmThumb2
+    400080: RigLArmThumb3
+    400082: RigLLeg1
+    400084: RigLLeg2
+    400086: RigLLegAnkle
+    400088: RigLLegPlatform
+    400090: RigLLegToes1
+    400092: RigLLegToes2
+    400094: RigNeck1
+    400096: RigNeck2
+    400098: RigPelvis
+    400100: RigPelvisGizmo
+    400102: RigRArm1
+    400104: RigRArm1Gizmo
+    400106: RigRArm2
+    400108: RigRArm2Gizmo
+    400110: RigRArmIndex1
+    400112: RigRArmIndex2
+    400114: RigRArmIndex3
+    400116: RigRArmLittle1
+    400118: RigRArmLittle2
+    400120: RigRArmLittle3
+    400122: RigRArmMiddle1
+    400124: RigRArmMiddle2
+    400126: RigRArmMiddle3
+    400128: RigRArmPalm
+    400130: RigRArmPalmGizmo
+    400132: RigRArmThumb1
+    400134: RigRArmThumb2
+    400136: RigRArmThumb3
+    400138: RigRibcage
+    400140: RigRibcageGizmo
+    400142: RigRLeg1
+    400144: RigRLeg2
+    400146: RigRLegAnkle
+    400148: RigRLegPlatform
+    400150: RigRLegToes1
+    400152: RigRLegToes2
+    400154: RigSpine1
+    400156: RigSpine2
+    2300000: Blow Pipe
+    2300002: Dart
+    2300004: Goblin
+    3300000: Blow Pipe
+    3300002: Dart
+    3300004: Goblin
+    4300000: Goblin
+    4300002: Blow Pipe
+    4300004: Dart
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Goblin
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
