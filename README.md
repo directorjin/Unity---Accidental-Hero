@@ -10,8 +10,10 @@ It's divided into four stages.
 ---------------------------------------------
 
 <hr/>  
+
 1. The first stage is survival stage for the tutorial.
 ------------------------------------------------------
+
 Here, the player have to fills up the health near the fire and moves on to find the next one.
 Be careful not to get zero health in the cold.
 
@@ -35,6 +37,7 @@ CutScene will play back when you arrive at the final point while maintaining hea
 
 2. The second stage is fighting stage against Goblin.
 -----------------------------------------------------
+
 Goblin patrols the designated area. If Goblin detects the player, it approaches.
 However, as the distance between Goblin and the player becomes remote, they return to their original positions and patrol the designated areas.
 The player installs traps and attracts and kills goblin.
@@ -56,6 +59,7 @@ The player installs the trap and pulls the goblin onto the trap to kill.
 
 3. The third stage is puzzle stage like Pokémon's ice cave.
 ----------------------------------------------------------
+
 The player slides on the ice. So we have to go in four directions.
 You can't go back to where you've been.
 
@@ -71,6 +75,7 @@ Once you've passed, it's an X mark. If you go to the place marked X, the puzzle 
 <hr/>  
 4. The fourth stage is boss stage. 
 ---------------------------------
+
 The boss has three attack patterns.
 Poisonous needles spitting, magical star, dash.
 The boss loses his health when he hits his head against a wall during a dash pattern.
