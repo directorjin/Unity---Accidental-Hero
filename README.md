@@ -28,7 +28,9 @@ _A : 主人公がモンスターを攻撃してレベルアップし、アイテ
 <hr/>  
 
 **1. 最初のステージは、基本的な操作法を身につけるためのステージです。 (The first stage is survival stage for the tutorial.)**
---------------------------------------------------
+
+<hr/>
+
   
 Stage1 - Rule
 ----
@@ -57,6 +59,8 @@ Stage2 - ScreenShot
 <hr/>  
   
 **2. 二番目のステージはゴブリンとの戦闘です。(The second stage is fighting stage against Goblin.)**
+
+<hr/>
   
 _私はこのステージで敵のAIをプログラミングすることに重点を置きました。_
   
@@ -85,7 +89,9 @@ Stage2 - ScreenShot
 <hr/>  
   
 **3. 三番目のステージは3D氷の洞窟ステージだ。(The third stage is puzzle stage like Pokémon's ice cave.)**
-----------------------------------------------------------
+
+
+<hr/>
   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/74649341-aa3f4580-51c2-11ea-8cb2-ba1ef478bb7e.png">
 _ポケモンゴールドの氷の洞窟がモチーフ。
@@ -113,7 +119,8 @@ Stage3 - ScreenShot
 <hr/>  
   
 **4. 4番目のステージは、パターンのあるボスモンスターとの戦闘です。(The fourth stage is fight the boss who have the 3 pattern.)** 
----------------------------------
+
+<hr/>
   
 _MMORPGゲームでよく登場するパターンのあるボスを作ってみたかったのです。 2番目のステージでプログラミングできなかった精密な一つのボスAIを作りました。_
 
