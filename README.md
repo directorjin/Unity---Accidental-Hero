@@ -1,5 +1,13 @@
 # Unity-Game---an-accidental-hero
 Unity Game/Action/Puzzle
+  
+  
+  
+ソースコードを見る前に読んでください.docをダウンロードして先に読んでください。
+---------------
+  
+  
+  
 
 Description
 ===========
