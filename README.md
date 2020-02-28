@@ -1,7 +1,7 @@
 # Unity-Game---an-accidental-hero
 Unity Game/Action/Puzzle  
   
-  
+<hr/>    
   
 _" ソースコードを見る前に読んでください.doc "をダウンロードして先に読んでください。_
 ---------------
@@ -9,6 +9,16 @@ _" ソースコードを見る前に読んでください.doc "をダウンロ�
 SourceCodeフォルダはポートフォリオの評価が便利になるようにScriptファイルだけを集めたものです。 assetフォルダにあるものと同じです。  
 ----------------
 
+  
+<hr/>  
+  
+Play Video
+-----------
+Stage 3 : https://www.youtube.com/watch?v=l9sI75ccc0A
+  
+Stage 4 : https://www.youtube.com/watch?v=jQYbrPY2nrU
+
+<hr/> 
   
 Description
 ===========
@@ -156,13 +166,6 @@ Stage4 - ScreenShot
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73859837-07abcc00-487e-11ea-8b14-d7118146d5b2.png"> 
 ボスのHPが0になるとエンディングが流れます。(When Goblin's health reaches zero, the player wins and the ending scene begins.)
   
-<hr/>  
-  
-Play Video
------------
-https://www.youtube.com/watch?v=AG4v-685a7o
-
-
 <hr/> 
   
 反省
