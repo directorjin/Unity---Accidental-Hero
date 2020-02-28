@@ -144,6 +144,7 @@ _MMORPGゲームでよく登場するパターンのあるボスを作ってみ�
 
 Stage4 - Rule
 ----
+このステージでプレイヤーにはステミナが存在します。ステミナの回復のために走ることを休むことも必要し、ボスの攻撃を避けるためにステミナを使って走ることも必要です。(In this stage, the player needs to take a break from running to recover the stamina, and use the stamina to avoid attacking the boss.)
 ボスは三つのパターンを持っています。(The boss has three attack patterns.)
 ①毒唾を吐き②魔法を使い③ダッシュします。(Poisonous needles spitting, magical star, dash.)
 ダッシュパターンの際、プレイヤーが突進を避けると、ボスは壁に頭を打ち込んでHPが減少します。(The boss loses his health when he hits his head against a wall during a dash pattern.)
@@ -151,7 +152,12 @@ Stage4 - Rule
   
 Stage4 - ScreenShot
 ----
-<img width="700" src="https://user-images.githubusercontent.com/44941601/73859082-d54d9f00-487c-11ea-9e57-f183ff5dfcf7.png"> 
+<img width="700" src="https://user-images.githubusercontent.com/44941601/75559881-9976b580-5a87-11ea-8cfc-ba6b77dccbfc.png"> 
+Shiftを押して走るとステミナが減少します。歩けばステミナが回復します。ボスの攻撃によって、プレイヤーはいつ走るかをよく考える必要があります。(Running reduces the stamina.(Run key : press Shift Button)
+Walking will restore the stamina.
+Depending on the boss's attack, the player must think carefully when to run.)
+
+<img width="700" src="https://user-images.githubusercontent.com/44941601/75559522-f0c85600-5a86-11ea-8fa0-02e24bb84a26.png"> 
 毒唾を吐く(Poisonous needles spitting. )
 プレーヤーの方向に3度の毒針を発射します。(Fire three poisoned needles, the way is the player's current position.)
   
