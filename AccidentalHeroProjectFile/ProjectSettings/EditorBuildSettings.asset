@@ -5,34 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/TITLE/TITLE.unity
+  - enabled: 0
+    path: Assets/MadeThings/KimTaeYoon/TITLE_KimTaeYoon/TITLE.unity
     guid: 5e2bb2dcc414ba442a47e5c7cf16683e
-  - enabled: 1
-    path: Assets/TITLE/prologue.unity
+  - enabled: 0
+    path: Assets/MadeThings/KimTaeYoon/TITLE_KimTaeYoon/prologue.unity
     guid: 96b2a0a79b121824c8e7464510a146b6
-  - enabled: 1
-    path: Assets/JIN/SSS.unity
+  - enabled: 0
+    path: Assets/MadeThings/KimTaeYoon/FirstStage_KimTaeYoon/SSS.unity
     guid: 6783d6d5592eca84caf4d4231cbc2243
-  - enabled: 1
-    path: Assets/Ice floor/chat caravan.unity
+  - enabled: 0
+    path: Assets/MadeThings/LeeEohJin/CinematicScene_LeeEohJIn/chat caravan.unity
     guid: 8947781ce4a892d439b005465a384894
-  - enabled: 1
-    path: Assets/JIN2/town.unity
+  - enabled: 0
+    path: Assets/MadeThings/KimTaeYoon/SecondStage_KimTaeYoon/town.unity
     guid: 0f0e27a10ecec6d4ab1f91b2e8682be2
-  - enabled: 1
-    path: Assets/JIN2/snowfight.unity
+  - enabled: 0
+    path: Assets/MadeThings/KimTaeYoon/SecondStage_KimTaeYoon/snowfight.unity
     guid: 4afde980d2d48974dbee6aa69bf42145
-  - enabled: 1
-    path: Assets/Ice floor/Ice floor2.unity
+  - enabled: 0
+    path: Assets/MadeThings/LeeEohJin/IceFloor_LeeEohJin/Ice floor2.unity
     guid: 24865e2bae51b6b4b97c7722de5d06c2
   - enabled: 1
-    path: Assets/LAND/land.unity
+    path: Assets/MadeThings/LeeEohJin/BossStage_LeeEohJin/BossMap.unity
     guid: e62de799954b48944af03d68a3971bb1
   - enabled: 1
-    path: Assets/LAND/ending.unity
+    path: Assets/MadeThings/LeeEohJin/BossStage_LeeEohJin/Ending/ending.unity
     guid: 77f324f9ba5618949bde8127629fac8c
   - enabled: 1
-    path: Assets/GAMEOVER/GAMEOVER.unity
+    path: Assets/MadeThings/KimTaeYoon/GAMEOVER_KimTaeYoon/GAMEOVER.unity
     guid: 2af41162c48d3fb46bf4d39c3ad16d07
   m_configObjects: {}

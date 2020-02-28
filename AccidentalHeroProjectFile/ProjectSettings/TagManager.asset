@@ -16,6 +16,7 @@ TagManager:
   - Monster
   - patt2
   - patt1
+  - MagicRoad
   layers:
   - Default
   - TransparentFX
