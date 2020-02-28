@@ -10,7 +10,7 @@ Description
 ---------------------------------------------
 私がプログラミングしたステージは'3,4番ステージ'です。(The stage I programmed is and 3 and 4.)
 ------------------------------------------------------------
-チームの同僚は、書類作成と'1,2'ステージそしてタイトルとエンディングを担当しました。(A colleague of the team worked on paperwork, 1 stage,2 stage, titles, and endings.)    
+チームの同僚は、書類作成と'1,2'ステージそしてタイトルを担当しました。(A colleague of the team worked on paperwork, 1 stage,2 stage, title)    
 -------------------------------------------------------------
 
 
