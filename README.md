@@ -8,9 +8,9 @@ Description
 ----------------------------------------------
 これは4つのステージに分けられています。(It's divided into four stages.)
 ---------------------------------------------
-私がプログラミングしたステージは'2,3,4番ステージ'です。(The stage I programmed is number 2 and 3 and 4.)
+私がプログラミングしたステージは'3,4番ステージ'です。(The stage I programmed is and 3 and 4.)
 ------------------------------------------------------------
-チームの同僚は、書類作成と1ステージそしてグラフィックとサウンドとタイトルとエンディングを担当しました。(A colleague of the team worked on paperwork, one stage, graphics, sound, titles, and endings.)    
+チームの同僚は、書類作成と'1,2'ステージそしてタイトルとエンディングを担当しました。(A colleague of the team worked on paperwork, 1 stage,2 stage, titles, and endings.)    
 -------------------------------------------------------------
 
 
@@ -62,7 +62,7 @@ Stage2 - ScreenShot
 
 <hr/>
   
-_私はこのステージで敵のAIをプログラミングすることに重点を置きました。_
+
   
 Stage2 - Rule
 ----
