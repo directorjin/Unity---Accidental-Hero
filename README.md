@@ -153,7 +153,7 @@ Stage4 - ScreenShot
 ----
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73859082-d54d9f00-487c-11ea-9e57-f183ff5dfcf7.png"> 
 毒唾を吐く(Poisonous needles spitting. )
-3方向の毒唾を吐きます。 中央の毒針はプレイヤーに向いています。(Fire three poisoned needles, including the player's current position.)
+プレーヤーの方向に3度の毒針を発射します。(Fire three poisoned needles, the way is the player's current position.)
   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73859212-08902e00-487d-11ea-937b-7983ec178c5b.png"> 
 魔法(magical star.)
@@ -163,6 +163,9 @@ Stage4 - ScreenShot
 魔法を使った後、ボスはダッシュします。(After using the magic pattern, Goblin uses the dash pattern.) 
 プレイヤーがボスのダッシュを避けると、ボスは壁にぶつかってHPが減少します。(When the player avoids the goblin dash, the goblin hits his head against a wall and lose his health.)
   
+<img width="700" src="https://user-images.githubusercontent.com/44941601/75558694-8b279a00-5a85-11ea-9f51-e711b73ebb38.png"> 
+ボスのHPが半分で怒り状態になります。 パターンがランダムになりパターンの待ち時間が短くなります。 そして、魔法を使えばもっと多くの星が生成されます。(If the Boss's Hp is less than the Half, then Boss's State turn to the Rage mode. Rage mode is more speedy and the magic is more powerful.) 
+
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73859837-07abcc00-487e-11ea-8b14-d7118146d5b2.png"> 
 ボスのHPが0になるとエンディングが流れます。(When Goblin's health reaches zero, the player wins and the ending scene begins.)
   
