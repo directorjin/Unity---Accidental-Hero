@@ -6,7 +6,7 @@ Unity Game/Action/Puzzle
 _" ソースコードを見る前に読んでください.doc "をダウンロードして先に読んでください。_
 ---------------
   
-SourceCodeフォルダはポートフォリオの評価が便利になるようにScriptファイルだけを集めたものです。 assetフォルダにあるものと同じです。  
+SourceCodeフォルダはポートフォリオの評価が便利になるようにScriptファイルだけを集めたものです。  assetフォルダにあるものと同じです。  
 ----------------
 
   
@@ -36,14 +36,14 @@ Description
 
 _Q : このゲームを作った理由?_  
 
-_A : 主人公がモンスターを攻撃してレベルアップし、アイテムを得て強くなる伝統的なRPGではなく、様々な方法でステージをクリアしていくゲームを作ってみたかったからだ。  
+_A : 主人公がモンスターを攻撃してレベルアップし、アイテムを得て強くなる伝統的なRPGではなく、様々な方法でステージをクリアしていくゲームを作ってみたかったからだ。    
 その理由は二つある。  
-  
+    
 1.、ユニティを使用して様々な機能をプログラミングしてみたくて(プログラマーとして)
 2.プレーヤーが多様な面白みを感じることを願って(ゲームクリエーターとして)_
+    
+    
   
-  
-
 <hr/>  
 
 **1. 最初のステージは、基本的な操作方法を身につけるためのステージです。 (The first stage is survival stage for the tutorial.)**
@@ -53,7 +53,7 @@ _A : 主人公がモンスターを攻撃してレベルアップし、アイテ
   
 Stage1 - Rule
 ------
-プレイヤーは火の近くにいるとHPが回復します。 しかし、火から離れるとHPが減少します。(Here, the player have to fills up the health near the fire and moves on to find the next one.)
+プレイヤーは火の近くにいるとHPが回復します。 しかし、火から離れるとHPが減少します。(Here, the player have to fills up the health near the fire and moves on to find the next one.) 
 そのためHPが0にならないように火を探しながら目的地を見つける必要があります。(Be careful not to get zero health in the cold.)
   
 Stage2 - ScreenShot
@@ -84,10 +84,10 @@ Stage2 - ScreenShot
 Stage2 - Rule
 ----
   
-ゴブリンは決められた場所をパトロールします。もしプレイヤーを見つけたら接近します。(Goblin patrols the designated area. If Goblin detects the player, it approaches.)
-しかし、プレイヤーと距離が離れると、ゴブリンはまた所定の位置に戻ってパトロールします。(However, as the distance between Goblin and the player becomes remote, they return to their original positions and patrol the designated areas.)
-プレイヤーはBoxを獲得してトラップをインストールします。トラップでゴブリンを倒すことが出来ます。(The player installs traps and attracts and kills goblin.)
-プレイヤーはトラップを設置するのに時間がかかります。 ですから、プレイヤーはトラップを設置する前に、適当な位置を考えなければなりません。(The player takes time to install the trap, so the player has to think carefully about it.)
+ゴブリンは決められた場所をパトロールします。もしプレイヤーを見つけたら接近します。(Goblin patrols the designated area. If Goblin detects the player, it approaches.) 
+しかし、プレイヤーと距離が離れると、ゴブリンはまた所定の位置に戻ってパトロールします。(However, as the distance between Goblin and the player becomes remote, they return to their original positions and patrol the designated areas.)  
+プレイヤーはBoxを獲得してトラップをインストールします。トラップでゴブリンを倒すことが出来ます。(The player installs traps and attracts and kills goblin.) 
+プレイヤーはトラップを設置するのに時間がかかります。 ですから、プレイヤーはトラップを設置する前に、適当な位置を考えなければなりません。(The player takes time to install the trap, so the player has to think carefully about it.) 
   
 Stage2 - ScreenShot
 ----
@@ -111,15 +111,15 @@ Stage2 - ScreenShot
 <hr/>
   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/74649341-aa3f4580-51c2-11ea-8cb2-ba1ef478bb7e.png">
-_ポケットモンスターゴールドの氷の洞窟がモチーフ。
+_ポケットモンスターゴールドの氷の洞窟がモチーフ。 
 モチーフにした理由は二つある。
 1.今までしたダンジョンの中で一番面白かった。
 2.3Dゲームに、2Dの論理を応用してみたかった。_
   
 Stage3 - Rule
 ----
-プレイヤーは氷の上では上、下、左、右にのみ移動できます。移動方向を決めると氷の上を滑ります。(The player slides on the ice. So we have to go in four directions.)
-通ったエリアにはXが表示され、Xエリアに戻るとステージがリセットされます。同じ場所を二度滑ることはできません。(You can't go back to where you've been. because Such situation leads to a reset.)
+プレイヤーは氷の上では上、下、左、右にのみ移動できます。移動方向を決めると氷の上を滑ります。(The player slides on the ice. So we have to go in four directions.)  
+通ったエリアにはXが表示され、Xエリアに戻るとステージがリセットされます。同じ場所を二度滑ることはできません。(You can't go back to where you've been. because Such situation leads to a reset.) 
   
   
 Stage3 - ScreenShot
@@ -144,21 +144,19 @@ _MMORPGゲームでよく登場するパターンのあるボスを作ってみ�
 
 Stage4 - Rule
 ----
-このステージでプレイヤーにはステミナが存在します。ステミナの回復のために走ることを休むことも必要し、ボスの攻撃を避けるためにステミナを使って走ることも必要です。(In this stage, the player needs to take a break from running to recover the stamina, and use the stamina to avoid attacking the boss.)
-ボスは三つのパターンを持っています。(The boss has three attack patterns.)
-①毒唾を吐き②魔法を使い③ダッシュします。(Poisonous needles spitting, magical star, dash.)
-ダッシュパターンの際、プレイヤーが突進を避けると、ボスは壁に頭を打ち込んでHPが減少します。(The boss loses his health when he hits his head against a wall during a dash pattern.)
+このステージでプレイヤーにはステミナが存在します。ステミナの回復のために走ることを休むことも必要し、ボスの攻撃を避けるためにステミナを使って走ることも必要です。(In this stage, the player needs to take a break from running to recover the stamina, and use the stamina to avoid attacking the boss.) 
+ボスは三つのパターンを持っています。(The boss has three attack patterns.) 
+①毒唾を吐き②魔法を使い③ダッシュします。(Poisonous needles spitting, magical star, dash.)  
+ダッシュパターンの際、プレイヤーが突進を避けると、ボスは壁に頭を打ち込んでHPが減少します。(The boss loses his health when he hits his head against a wall during a dash pattern.) 
   
   
 Stage4 - ScreenShot
 ----
 <img width="700" src="https://user-images.githubusercontent.com/44941601/75559881-9976b580-5a87-11ea-8cfc-ba6b77dccbfc.png"> 
-Shiftを押して走るとステミナが減少します。歩けばステミナが回復します。ボスの攻撃によって、プレイヤーはいつ走るかをよく考える必要があります。(Running reduces the stamina.(Run key : press Shift Button)
-Walking will restore the stamina.
-Depending on the boss's attack, the player must think carefully when to run.)
+Shiftを押して走るとステミナが減少します。歩けばステミナが回復します。ボスの攻撃によって、プレイヤーはいつ走るかをよく考える必要があります。(Running reduces the stamina.(Run key : press Shift Button) Walking will restore the stamina. Depending on the boss's attack, the player must think carefully when to run.)
 
 <img width="700" src="https://user-images.githubusercontent.com/44941601/75559522-f0c85600-5a86-11ea-8fa0-02e24bb84a26.png"> 
-毒唾を吐く(Poisonous needles spitting. )
+毒唾を吐く(Poisonous needles spitting. ) 
 プレーヤーの方向に3度の毒針を発射します。(Fire three poisoned needles, the way is the player's current position.)
   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/73859212-08902e00-487d-11ea-937b-7983ec178c5b.png"> 
@@ -179,9 +177,9 @@ Depending on the boss's attack, the player must think carefully when to run.)
   
 反省
 ---------
-Unityを学んで初めて作ってみたゲームだったので、たくさんのバグがあった。
-初めてのチームプロジェクトだったので、協業過程でも多くの課題もできた。
-すっきりとコーディングされた詳しいコメントの作成、変数の名前の付け方や詳細を事前に話し合って統一しなければならないことを感じた。
+Unityを学んで初めて作ってみたゲームだったので、たくさんのバグがあった。  
+初めてのチームプロジェクトだったので、協業過程でも多くの課題もできた。 
+すっきりとコーディングされた詳しいコメントの作成、変数の名前の付け方や詳細を事前に話し合って統一しなければならないことを感じた。  
 
 
 <hr/> 
