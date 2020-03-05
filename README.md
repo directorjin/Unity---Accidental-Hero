@@ -3,7 +3,7 @@ Unity Game/Action/Puzzle
   
 <hr/>    
   
-_" ソースコードを見る前に読んでください.doc "をダウンロードして先に読んでください。_
+_"ソースコードを見る前に読んでください.doc "をダウンロードして先に読んでください。_
 ---------------
   
 SourceCodeフォルダはポートフォリオの評価が便利になるようにScriptファイルだけを集めたものです。  assetフォルダにあるものと同じです。  
@@ -29,7 +29,7 @@ Description
 ---------------------------------------------
 私がプログラミングしたステージは'2,3,4ステージ'です。(The stage I programmed is number 2 and 3 and 4.)
 ------------------------------------------------------------
-チームのスタッフは、書類作成と1ステージ、グラフィック、サウンド、タイトルとエンディングを担当しました。(A colleague of the team worked on paperwork, one stage, graphics, sound, titles, and endings.)    
+チームのスタッフは、書類作成と1ステージ、グラフィック、サウンド、タイトルとエンディングを担当しました。(A colleague of the team worked on paperwork, one stage, graphics, sound, titles)    
 -------------------------------------------------------------
 
 
