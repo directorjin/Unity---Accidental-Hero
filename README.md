@@ -1,7 +1,17 @@
 # Unity-Game---an-accidental-hero
 Unity Game/Action/Puzzle  
   
-<hr/>    
+<hr>  
+
+🕹️How to Play
+-------------
+
+移動キー  
+<img width="500" src="https://user-images.githubusercontent.com/44941601/76394836-76b69c00-63b9-11ea-88f8-7c440efeffb5.png">
+
+<hr/>      
+  
+ 
   
 _"ソースコードを見る前に読んでください.doc "をダウンロードして先に読んでください。_
 ---------------
