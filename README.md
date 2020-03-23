@@ -5,7 +5,7 @@ Unity Game/Action/Puzzle
 <hr>  
 
 🕹️How to Play
--------------
+===========
 
 移動キー  
 <img width="500" src="https://user-images.githubusercontent.com/44941601/76395347-74087680-63ba-11ea-81d5-5882092c6e33.png">  
@@ -17,7 +17,7 @@ Unity Game/Action/Puzzle
 <hr> 
 
 パッチノート(2020/02/28 ver)
-----------
+============
 
 全体的なバグ修正とボスの難易度を少し高め、より面白くしました。
   
@@ -41,7 +41,7 @@ Unity Game/Action/Puzzle
 <hr/> 
 
 パッチノート(2020/03/23 ver)
-----------
+=============
 
 完成度を高めるための修正。
 
@@ -71,7 +71,8 @@ SourceCodeフォルダはポートフォリオの評価が便利になるよう�
 <hr/>  
   
 Play Video
------------
+==========
+
 Stage 3 : https://www.youtube.com/watch?v=l9sI75ccc0A
   
 Stage 4 : https://www.youtube.com/watch?v=jQYbrPY2nrU
