@@ -101,15 +101,15 @@ _A : 主人公がモンスターを攻撃してレベルアップし、アイテ
 1.、ユニティを使用して様々な機能をプログラミングしてみたくて(プログラマーとして)
 2.プレーヤーが多様な面白みを感じることを願って(ゲームクリエーターとして)_
     
-    
   
+    
+      
+
 <hr/>  
 
 **1. 最初のステージは、基本的な操作方法を身につけるためのステージです。 (The first stage is survival stage for the tutorial.)**
 
 <hr/>
-
-  
 Stage1 - Rule
 ------
 プレイヤーは火の近くにいるとHPが回復します。 しかし、火から離れるとHPが減少します。(Here, the player have to fills up the health near the fire and moves on to find the next one.) 
