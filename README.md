@@ -107,6 +107,7 @@ _A : 主人公がモンスターを攻撃してレベルアップし、アイテ
       
 
 <hr/>  
+<hr>  
 
 **1. 最初のステージは、基本的な操作方法を身につけるためのステージです。 (The first stage is survival stage for the tutorial.)**
 
