@@ -11,7 +11,7 @@ public class HpSpControl : MonoBehaviour {
     public AudioClip hitt;
     public Image spBar;
     bool gameOver = false;
-    bool inMagicRoad = false;
+    
 
 
     #region Sprint Varation

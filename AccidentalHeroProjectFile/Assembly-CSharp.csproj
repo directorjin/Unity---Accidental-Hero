@@ -91,6 +91,7 @@
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\BgmScript.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\BlackoutScript.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\BossScript.cs" />
+    <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\CameraShaker.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\HedraScript.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\HpSpControl.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\BossStage_LeeEohJin\Script\IcicleScript.cs" />
@@ -108,7 +109,6 @@
     <Compile Include="Assets\MadeThings\LeeEohJin\IceFloor_LeeEohJin\Script\FloorScript\OutFloor.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\IceFloor_LeeEohJin\Script\FloorScript\StartFloor.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\IceFloor_LeeEohJin\Script\FloorScript\Xfloor.cs" />
-    <Compile Include="Assets\MadeThings\LeeEohJin\IceFloor_LeeEohJin\Script\FloorScript\floorFlag.cs" />
     <Compile Include="Assets\MadeThings\LeeEohJin\IceFloor_LeeEohJin\Script\LoadScene.cs" />
     <None Include="Assets\AssetLibary\Goblins Pack\Goblin Torch\Read me.txt" />
     <None Include="Assets\AssetLibary\Invector-3rdPersonController\Basic Locomotion LITE\README_Basic.txt" />

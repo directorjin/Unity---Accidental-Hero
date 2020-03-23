@@ -24,6 +24,9 @@ public class BossScript : MonoBehaviour {
     public AudioClip roaring;
     public AudioClip blowpipesound;
 
+    public AudioClip shakeSound; //new
+    public Camera MainCamera; //new
+
     float dartspeed;
     float timertime;
     float rotationSpeed;
@@ -122,13 +125,15 @@ public class BossScript : MonoBehaviour {
 
         if (col.transform.tag == "BossMap")
         {
-            ;
+            
             run_to_p = false;
             Instantiate(drop_it, transform.position + new Vector3(0, 13.0f, 0), transform.rotation);
             animator.SetBool("Run", false);
-            animator.SetTrigger("Take Damage");
-            GetComponent<AudioSource>().PlayOneShot(bosshit);
-            bosshpbar.fillAmount -= 0.15f;
+            StartCoroutine("BossDamage");
+            
+            //animator.SetTrigger("Take Damage");
+            //GetComponent<AudioSource>().PlayOneShot(bosshit);
+            //bosshpbar.fillAmount -= 0.15f;
         }
 
         if(col.transform.tag == "Player")
@@ -237,7 +242,7 @@ public class BossScript : MonoBehaviour {
 
         run_to_p = true;
 
-        yield return new WaitForSeconds(3.0f);
+        yield return new WaitForSeconds(2.5f);
         run_to_p = false;
         rotate_to_p = true;
         animator.SetBool("Run", false);
@@ -275,4 +280,16 @@ public class BossScript : MonoBehaviour {
         SceneManager.LoadScene("ending");
 
     }
+
+    IEnumerator BossDamage()
+    {
+        MainCamera.GetComponent<CameraShaker>().ShakeCamera(0.8f);
+        GetComponent<AudioSource>().PlayOneShot(shakeSound);
+        
+        yield return new WaitForSeconds(1.3f);
+        animator.SetTrigger("Take Damage");
+        GetComponent<AudioSource>().PlayOneShot(bosshit);
+        bosshpbar.fillAmount -= 0.15f;
+    }
+
 }

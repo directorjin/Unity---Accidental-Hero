@@ -11,7 +11,7 @@ public class HedraScript : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        rotationspeed = 100.0f;
+        rotationspeed = 200.0f;
         hydraspeed = 30.0f;
     }
 	// Update is called once per frame
