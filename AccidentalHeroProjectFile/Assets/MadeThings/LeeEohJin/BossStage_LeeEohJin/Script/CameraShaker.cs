@@ -6,11 +6,11 @@ public class CameraShaker : MonoBehaviour
 {
     
 
-    public float shakes = 0f;
+    private float shakes = 0f;
 
-    public float shakeAmount = 0.000001f;
+    public float shakeAmount;
 
-    public float decreaseFactor = 1.0f;
+    public float decreaseFactor;
 
     bool CameraShaking = false;
 
@@ -20,7 +20,6 @@ public class CameraShaker : MonoBehaviour
 
     {
         
-
 
     }
 
@@ -48,10 +47,14 @@ public class CameraShaker : MonoBehaviour
             if (shakes > 0)
 
             {
+                //Debug.Log(shakes);
+
                 
-                gameObject.transform.position = gameObject.transform.position + Random.insideUnitSphere * shakeAmount;
+
+                Debug.Log(Random.insideUnitSphere);
+                gameObject.transform.position = gameObject.transform.position + (Random.insideUnitSphere * shakeAmount);
+                Debug.Log(gameObject.transform.position);
                 shakes -= Time.deltaTime * decreaseFactor;
-                
 
             }
             

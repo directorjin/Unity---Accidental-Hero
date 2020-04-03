@@ -131,9 +131,7 @@ public class BossScript : MonoBehaviour {
             animator.SetBool("Run", false);
             StartCoroutine("BossDamage");
             
-            //animator.SetTrigger("Take Damage");
-            //GetComponent<AudioSource>().PlayOneShot(bosshit);
-            //bosshpbar.fillAmount -= 0.15f;
+            
         }
 
         if(col.transform.tag == "Player")

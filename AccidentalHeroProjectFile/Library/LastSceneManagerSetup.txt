@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MadeThings/LeeEohJin/IceFloor_LeeEohJin/Ice floor2.unity
+- path: Assets/MadeThings/LeeEohJin/BossStage_LeeEohJin/BossMap.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

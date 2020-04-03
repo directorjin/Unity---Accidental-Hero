@@ -23,16 +23,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MadeThings/KimTaeYoon/SecondStage_KimTaeYoon/snowfight.unity
     guid: 4afde980d2d48974dbee6aa69bf42145
-  - enabled: 0
+  - enabled: 1
     path: Assets/MadeThings/LeeEohJin/IceFloor_LeeEohJin/Ice floor2.unity
     guid: 24865e2bae51b6b4b97c7722de5d06c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/MadeThings/LeeEohJin/BossStage_LeeEohJin/BossMap.unity
     guid: e62de799954b48944af03d68a3971bb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/MadeThings/LeeEohJin/BossStage_LeeEohJin/Ending/ending.unity
     guid: 77f324f9ba5618949bde8127629fac8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/MadeThings/KimTaeYoon/GAMEOVER_KimTaeYoon/GAMEOVER.unity
     guid: 2af41162c48d3fb46bf4d39c3ad16d07
   m_configObjects: {}
