@@ -49,6 +49,7 @@ Unity Game/Action/Puzzle
 -----------
 
 1. IceFloorのColliderの範囲を調節して絶対にバグプレイが不可能に修正
+<img width="700" src="https://user-images.githubusercontent.com/44941601/78638189-d172e300-78e6-11ea-94ea-733bbada1f84.gif">   
 
 ボスステージ修正
 --------------
